@@ -9,3 +9,5 @@ https://docs.m5stack.com/en/core/basic_v2.7
 https://es.mathworks.com/help/simulink/supportpkg/arduino_ug/create-custom-blocks-create-project-and-libraries-folders.html
 https://github.com/m5stack/M5Stack/releases/tag/0.4.6
 https://github.com/m5stack/M5Stack
+
+Quizás se pueda con esta librería: https://www.aimagin.com/waijung-2-for-esp32.html
